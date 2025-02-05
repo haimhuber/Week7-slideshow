@@ -1,27 +1,20 @@
-body {
-    padding: 20px;
+.button {
+    color: rgb(117, 1, 1);
+    font-size: medium;
+    font-weight: 700;
+    background-color: rgb(80, 170, 255);
+    margin-left: 40%;
+    margin-top: 5%;
+    border-radius: 6px;
 }
 
-.cake-img {
-    width: 300px;
-    height: 300px;
+.mainText {
+    width: 100%;
+    margin-left: 26%;
+    color: blue;
+    padding: 10px;
 }
 
-#cheese-arrow {
-    font-size: 20px;
-}
-
-
-.arrow {
-    width: 10px;
-    height: 10px;
-}
-
-.hdn {
-    display: none;
-
-}
-
-.reciepe {
-    width: 20%;
+.mainText h1 {
+    margin-left: 8%;
 }
